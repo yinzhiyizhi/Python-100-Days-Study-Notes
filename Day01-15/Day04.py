@@ -41,7 +41,7 @@ for factor in range(x, 0, -1):
         print('%d和%d的最大公倍数是%d' % (x, y, x * y // factor))
         break
 
-        
+
 """
 打印各种三角形图案
 
